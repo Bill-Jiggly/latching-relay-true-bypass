@@ -1,7 +1,7 @@
 # latching-relay-true-bypass
 Guitar pedal latching relay true bypass using ATTiny85 microcontroller & Panasonic TQ2-L latching relay. 
 
-This is to be used with the Arduino platform as requires the library "bouncer 2" which can be downloaded through the arduino IDE. 
+This is to be used with the Arduino platform as requires the library "bouncer 2" which can be downloaded through the Arduino IDE. 
 
 To flash the chips please follow this tutorial https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/ 
 
