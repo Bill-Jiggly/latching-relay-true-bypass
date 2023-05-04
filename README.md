@@ -7,6 +7,8 @@ To flash the chips please follow this tutorial https://www.instructables.com/How
 
 ATTiny85 Datasheet https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf
 
-Remember the pin out on the code matches not to the pins numbered on the chip but the ones starting with PB0, PB1... etc 
+Panasonic TQ2-L Datasheet https://www.mouser.co.uk/datasheet/2/315/4514_fileversion-1855604.pdf
 
-Schematic can be found in directory 
+Remember the pin out on the code matches pins numbered on the chip PB0, PB1... etc not 1-8 like on other IC chips, check the datasheet.  
+
+Schematic for full circuit can be found in directory.  
